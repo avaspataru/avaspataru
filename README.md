@@ -7,7 +7,7 @@ I have participated in hackathons and built a couple of cool side projects you c
 Do not hesitate to contact me about anything you think I might be able to help out with or collaborate on. I'm always looking forward to new exciting challenges!! 
 
 Connect via
-[LinkedIn :link:](https://www.linkedin.com/in/avaspataru/) & [Website :computer:](https://avaspataru.github.io/) & [Email :email:](mailto:spataruava@gmail.com) 
+[LinkedIn :link:](https://www.linkedin.com/in/avaspataru/) & [Email :email:](mailto:spataruava@gmail.com) 
 <!--
 **avaspataru/avaspataru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
